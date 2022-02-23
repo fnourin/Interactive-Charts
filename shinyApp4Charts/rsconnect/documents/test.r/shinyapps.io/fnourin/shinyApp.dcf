@@ -1,0 +1,13 @@
+name: shinyApp
+title: shinyApp
+username:
+account: fnourin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3995530
+bundleId: 4511795
+url: https://fnourin.shinyapps.io/shinyApp/
+when: 1619217800.12799
+lastSyncTime: 1619217800.12799
+asMultiple: FALSE
+asStatic: FALSE
